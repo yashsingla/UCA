@@ -1,0 +1,4 @@
+                                            CHECK LIST
+-------------------------------------------------------------------------------------------
+ >>counter game question(bit manipulation)-not all test cases
+>>study recursion
