@@ -1,4 +1,3 @@
-//check if given array is in preorder...inefficient code
 
 #include<stdio.h>
 
