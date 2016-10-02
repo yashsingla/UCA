@@ -30,5 +30,4 @@ int main()
     printf("yes");
   else
     printf("no");
-
 }
